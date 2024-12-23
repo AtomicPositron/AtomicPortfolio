@@ -1,0 +1,7 @@
+/* ./src/index.css */
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'nova';
+  src: url('../assets/Nova_Round/NovaRound-Regular.ttf') format('truetype');
+}
